@@ -14,8 +14,12 @@ public class Rest {
 
 	@RequestMapping(value="api/print")
 	@ResponseBody
-	public String print(String id){
+	public String print2(String id){
 		return id;
+	}
+	
+	public String log(){
+		return "test for log";
 	}
 	
 }
