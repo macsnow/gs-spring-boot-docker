@@ -23,5 +23,6 @@ public class Rest {
 	}
 	public void test(){
 	}
+	// add method
 	
 }
