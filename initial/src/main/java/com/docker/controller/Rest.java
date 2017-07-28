@@ -18,7 +18,6 @@ public class Rest {
 		return id;
 	}
 	
-	public void test(){
-	}
+	// add method
 	
 }
