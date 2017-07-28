@@ -21,5 +21,7 @@ public class Rest {
 	public String log(){
 		return "test for log";
 	}
+	public void test(){
+	}
 	
 }
